@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>test</title>
+    <url>/2020/09/16/test/</url>
+    <content><![CDATA[<p>我的博客 <code>https://xiaoxindada.github.io/</code></p>
+<figure class="highlight ruby"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 小新大大的博客</span></span><br><span class="line"><span class="comment"># Xiaoxindada</span></span><br></pre></td></tr></table></figure>
+<!--链接跳转 -->
+<p>点击跳转 <a href="https://xiaoxindada.github.io/">传送门</a></p>
+<!-- 图片查插入 -->
+<img src="/2020/09/16/test/1.jpg" class title="This is an example image">
+]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+</search>
